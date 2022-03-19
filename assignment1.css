@@ -1,0 +1,115 @@
+body
+    {
+    background-color:#D8DA3D ;
+    width: fit-content;
+    }
+h1
+    {
+    color:purple;
+    font-family: sans-serif;
+    } 
+div
+    {   
+    height :6em
+    }
+.dotted
+    {
+    border-bottom:1px dotted #80007E;
+    margin-bottom:2px;
+    position: relative;
+    left: 200px;
+    bottom: 10px;
+    width: 135%;
+    }
+div p
+    {
+    color:#80007E;
+    }
+div span
+    {
+    color:#80007E
+    }
+.dots p
+    {
+    width: 880px;
+    height: 20px;
+    position: relative;
+    left:200px;
+    bottom: 140px;
+    padding: 8px;
+    }
+p#dot
+    { 
+    border-width: 2px;
+    border-style: dashed;
+    color: black;
+    font-size: large;
+    }
+p#dot1
+    {   
+    border-style:dashed;
+    border-width: 2px;
+    border-color: #FF7F00;
+    color: black;
+    font-size: large;
+    }
+p#dot3
+    { 
+    border-style:dotted;
+    border-width: 2px;
+    border-color:#0000FF;
+    color: black;
+    font-size: large;
+    }
+.html
+    {
+    background-color: white;
+    height: 20px;
+    width: 17%;
+    border-right: 15px solid #FF7F00;
+    bottom: 200px;
+    color: #80007E;
+    position: relative;
+    padding: 5px;
+    font-family: georgia serif;
+    }
+.css
+    {
+    background-color: white;
+    border-right: 15px solid #0000FF;
+    height: 20px;
+    width: 17%;
+    color: #80007E;
+    background-position: left top ;
+    bottom: 190px;
+    position: relative;
+    padding: 5px;
+    }
+.js
+    {
+    background-color: white;
+    height: 20px;
+    width: 17%;
+    border-right: 15px solid #FF7F00;
+    color: #80007E;
+    bottom: 180px;
+    position: relative;
+    padding: 5px;
+    }
+.php
+    {
+    background-color: white;
+    height: 20px;
+    width: 17%;
+    border-right: 15px solid #0000FF;
+    color: #80007E;
+    bottom: 170px;
+    position: relative;
+    padding: 5px;
+    }
+.para
+    {
+    position: relative;
+    left: 200px;
+    bottom: 20px;
+    }
