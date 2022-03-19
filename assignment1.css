@@ -71,7 +71,7 @@ p#dot3
     color: #80007E;
     position: relative;
     padding: 5px;
-    font-family: georgia serif;
+    font-family: georgia;
     }
 .css
     {
@@ -84,6 +84,7 @@ p#dot3
     bottom: 190px;
     position: relative;
     padding: 5px;
+    font-family: georgia;
     }
 .js
     {
@@ -95,6 +96,7 @@ p#dot3
     bottom: 180px;
     position: relative;
     padding: 5px;
+    font-family: georgia;
     }
 .php
     {
@@ -106,6 +108,8 @@ p#dot3
     bottom: 170px;
     position: relative;
     padding: 5px;
+    font-family: georgia;
+
     }
 .para
     {
